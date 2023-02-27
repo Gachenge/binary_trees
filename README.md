@@ -1,0 +1,1 @@
+parent, grand parent, uncle, child all these are nodes
